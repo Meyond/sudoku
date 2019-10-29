@@ -1,1 +1,1 @@
-let isDone: boolean = false
+let isDone: string = '';
