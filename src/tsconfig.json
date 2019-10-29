@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "es5",
+    "allowJs": true,
+    "sourceMap": false,
+    "outDir": "../www/ts",
+    "noImplicitReturns": false,
+    "allowUnreachableCode": false
+  },
+  "include": ["./ts/**/*"],
+  "exclude": ["node_modules", "dist"]
+}
