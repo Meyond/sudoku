@@ -4,6 +4,7 @@
     "target": "es5",
     "allowJs": true,
     "sourceMap": false,
+    "declaration": true,
     "outDir": "../www/ts",
     "noImplicitReturns": false,
     "allowUnreachableCode": false
