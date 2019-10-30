@@ -2,7 +2,7 @@
   "compilerOptions": {
     "module": "esnext",
     "target": "es5",
-    "allowJs": true,
+    // "allowJs": true,
     "sourceMap": false,
     "declaration": true,
     "outDir": "../www/ts",
